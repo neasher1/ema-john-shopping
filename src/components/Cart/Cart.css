@@ -2,3 +2,14 @@
     position: sticky;
     top: 0;
 }
+
+.clearCart {
+    background-color: orange;
+    border: none;
+    padding: 10px 12px;
+    border-radius: 5px;
+}
+
+.clearCart:hover {
+    background-color: orangered;
+}
